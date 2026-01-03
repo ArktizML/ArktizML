@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # 💫 About Me:
 🐍 Python Developer<br>📍 Poland<br>🧠 Building backend apps & APIs<br>🚀 Focused on learning, consistency and real-world problem solving
 
